@@ -1,0 +1,81 @@
+{
+  "confirmation_bias": {
+    "markers": [
+      "clearly",
+      "obviously",
+      "everyone knows",
+      "as expected",
+      "proven",
+      "undeniable",
+      "of course",
+      "naturally"
+    ],
+    "description": "Tendency to favour information confirming existing beliefs."
+  },
+  "overconfidence_bias": {
+    "markers": [
+      "definitely",
+      "certainly",
+      "guaranteed",
+      "always",
+      "never",
+      "best",
+      "perfect",
+      "flawless",
+      "absolutely"
+    ],
+    "description": "Excessive certainty in claims or outcomes."
+  },
+  "scarcity_bias": {
+    "markers": [
+      "limited",
+      "exclusive",
+      "rare",
+      "only",
+      "last chance",
+      "urgent",
+      "deadline",
+      "running out",
+      "few spots"
+    ],
+    "description": "Urgency created by perceived scarcity."
+  },
+  "authority_bias": {
+    "markers": [
+      "expert",
+      "research shows",
+      "studies prove",
+      "scientists",
+      "according to",
+      "data shows",
+      "official",
+      "certified"
+    ],
+    "description": "Undue weight given to authority figures or credentials."
+  },
+  "bandwagon_bias": {
+    "markers": [
+      "everyone",
+      "most people",
+      "thousands",
+      "popular",
+      "widely",
+      "join",
+      "community",
+      "majority"
+    ],
+    "description": "Influence from perceived social consensus."
+  },
+  "framing_bias": {
+    "markers": [
+      "opportunity",
+      "growth",
+      "challenge",
+      "investment",
+      "potential",
+      "future",
+      "transformation"
+    ],
+    "description": "Positive reframing of neutral or negative situations."
+  }
+}

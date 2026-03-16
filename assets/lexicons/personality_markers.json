@@ -1,0 +1,71 @@
+{
+  "openness": [
+    "imagine",
+    "creative",
+    "curious",
+    "explore",
+    "novel",
+    "vision",
+    "innovate",
+    "dream",
+    "idea",
+    "discover",
+    "possibility",
+    "wonder"
+  ],
+  "conscientiousness": [
+    "plan",
+    "organise",
+    "detail",
+    "systematic",
+    "reliable",
+    "deadline",
+    "structure",
+    "process",
+    "consistent",
+    "precise",
+    "responsible",
+    "deliver"
+  ],
+  "extraversion": [
+    "team",
+    "collaborate",
+    "people",
+    "energy",
+    "lead",
+    "engage",
+    "network",
+    "communicate",
+    "together",
+    "dynamic",
+    "enthusiastic"
+  ],
+  "agreeableness": [
+    "support",
+    "help",
+    "trust",
+    "care",
+    "empathy",
+    "respect",
+    "kind",
+    "cooperative",
+    "understand",
+    "value",
+    "inclusive",
+    "community"
+  ],
+  "neuroticism": [
+    "stress",
+    "worry",
+    "pressure",
+    "difficult",
+    "challenge",
+    "concern",
+    "overwhelm",
+    "uncertain",
+    "anxious",
+    "fear",
+    "risk",
+    "unstable"
+  ]
+}
