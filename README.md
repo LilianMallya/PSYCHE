@@ -32,7 +32,7 @@ psyche/
 - app.py (Streamlit entry point)
 - config.py (settings + thresholds)
 
-## Setup (Mac)
+## Setup
 
 ```bash
 cd ~/Desktop/psyche
