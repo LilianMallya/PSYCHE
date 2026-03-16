@@ -126,6 +126,15 @@ textarea {
     border-top: 1px solid #1e2540;
     margin: 2rem 0;
 }
+
+[data-testid="stDeployButton"],
+[data-testid="stMainMenu"],
+[data-testid="stToolbar"],
+[data-testid="stStatusWidget"],
+footer,
+header {
+    display: none !important;
+}
 </style>
 """, unsafe_allow_html=True)
 
